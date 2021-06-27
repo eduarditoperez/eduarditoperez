@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduarditoperez
-- 👀 I’m interested in coding video games
-- 🌱 I’m currently learning about how to develop games in Unity
+- 👀 I’m interested in developing video games
+- 🌱 I’m currently learning about how to make games in Unity
 - 📫 How to reach me? just send me a message :)
 
 <!---
